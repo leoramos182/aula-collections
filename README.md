@@ -10,3 +10,4 @@
 - **Vídeo 07** : Aprendi sobre a função listOf() e criei uma data class 
 - **Vídeo 08** : Aprendi sobre a função sortedBy
 - **Vídeo 09** : Aprendi sobre a função groupBy() e descobri que em lista da API COLLECTIONS não se pode adicionar novos itens
+- **Vídeo 10** : Aprendi sobre a função setOf() e manipular a coleção com a função subtract()
