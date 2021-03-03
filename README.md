@@ -9,3 +9,4 @@
 - **Vídeo 06** : Aprendi sobre as funções count(), find() e any()
 - **Vídeo 07** : Aprendi sobre a função listOf() e criei uma data class 
 - **Vídeo 08** : Aprendi sobre a função sortedBy
+- **Vídeo 09** : Aprendi sobre a função groupBy() e descobri que em lista da API COLLECTIONS não se pode adicionar novos itens
