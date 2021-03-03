@@ -1,4 +1,4 @@
-# :facepunch: Everis Kotlin Developer Bootcamp:facepunch:
+# :computer: Everis Kotlin Developer Bootcamp:computer:
 ## Aplicando conceitos de Coleções, Arrays e Listas collections
 
 - **Aula 01** : Aprendi varios jeitos de realizar um loop com IntArray (02/03/2021)
