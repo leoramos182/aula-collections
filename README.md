@@ -1,4 +1,4 @@
-# :computer: Everis Kotlin Developer Bootcamp:computer:
+# :computer: Everis Kotlin Developer Bootcamp :computer:
 ## Aplicando conceitos de Coleções, Arrays e Listas collections
 **AULA 01 - OQUE SÃO COLLECTIONS** | _Aula feita no dia 03/02/2021_
 - **Vídeo 01** : Aprendi varios jeitos de realizar um loop com IntArray
