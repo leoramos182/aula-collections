@@ -11,5 +11,11 @@ fun main() {
     println(salarioMaiorQue1000)
     println(LINHA)
     salarioMaiorQue1000.forEach { println(it) }
+    println(LINHA)
+    println(salario.count{it in 2000.0 .. 3000.0}) //CONTA QUANTOS SALARIO SAO VERDADEIROS NESTE RANGE (2000 ~ 3000)
+    println(LINHA)
+    println(salario.find { it == 800.0 }) //BUSCA PELO ARRAY CERTO ITEM
+    println(LINHA)
+    println(salario.any { it == 800.0 }) //VERIFICA DE HA OU NÃO O ITEM PEDIO E RETORNA UM BOOLEAN
 
 }
