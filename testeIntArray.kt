@@ -1,5 +1,5 @@
 package one.digitalinnovation.collections
-const val LINHA = "*****"
+const val LINHA = "--------------------"
 fun main() {
     val values = IntArray(5)
     values[0] = 3

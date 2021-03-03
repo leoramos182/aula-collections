@@ -7,3 +7,4 @@
 - **Aula 04** : Aprendi sobre as funções DoubleArray() e doubleArrayOf() (03/02/2021)
 - **Aula 05** : Aprendi sobre as funções maxOrNull(), minOrNull() e filter() (03/02/2021)
 - **Aula 06** : Aprendi sobre as funções count(), find() e any()
+- **Aula 07** : Aprendi sobre a função listOf() e criei uma data class (03/02/2021)
