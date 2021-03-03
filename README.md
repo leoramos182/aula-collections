@@ -13,5 +13,5 @@
 - **Vídeo 10** : Aprendi sobre a função setOf() e manipular a coleção com a função subtract()
 - **Vídeo 11** : Aprendi sobre a função mapOf(), descobri o tipo Pair e como usa-lo e foi reforçado o uso da função forEach()
 
-**O QUE SÃO COLEÇÕES MUTAVEIS**
+**O QUE SÃO COLEÇÕES MUTAVEIS** |  _Aula feita no dia 03/02/2021_
 - **Vídeo 01** : Aprendi sobre a função mutableListOf() e sua diferença com a função listOf()
