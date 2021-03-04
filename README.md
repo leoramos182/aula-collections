@@ -16,3 +16,4 @@
 **O QUE SÃO COLEÇÕES MUTAVEIS** |  _Aula feita no dia 03/02/2021_
 - **Vídeo 01** : Aprendi sobre a função mutableListOf() e sua diferença com a função listOf()
 - **Vídeo 02** : Aprendi sobre mutableMaps()
+- **Vídeo 03** : Reforço sobre a mutableMaps() realizando mudanças no maps
