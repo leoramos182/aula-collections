@@ -17,3 +17,4 @@
 - **Vídeo 01** : Aprendi sobre a função mutableListOf() e sua diferença com a função listOf()
 - **Vídeo 02** : Aprendi sobre mutableMaps()
 - **Vídeo 03** : Reforço sobre a mutableMaps() realizando mudanças no maps
+- **Vídeo 04** : Aprendi sobre as funções estendidas e o seu uso 

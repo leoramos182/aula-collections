@@ -14,7 +14,7 @@ fun main() {
     //REMOVE O USUÁRIO PELO ID STRING
     funcionarios.removeById("Maria")
     //VAI PROCURAR PELA ID 'MARIA' MAS NAO VAI ACHAR POIS FOI REMOVIDA - RESULTANDO EM NULL
-    //println(funcionarios.findById("Maria"))
+    println(funcionarios.findById("Maria"))
     //IMPRIME TODOS OS ELEMENTOS NO MUTABLE MAPS FUNCIONARIOS
     funcionarios.findAll().forEach { println(it) }
 
